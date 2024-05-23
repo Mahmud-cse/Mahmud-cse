@@ -27,7 +27,7 @@
 
 <br />
 <p align="center">
-<a href="https://twitter.com/Mahmud53852461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mahmud_dev" height="30" width="40" style = "padding : 0 1rem"/></a>
+<a href="https://twitter.com/DevOpsMahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mahmud_dev" height="30" width="40" style = "padding : 0 1rem"/></a>
 </p>
 
 ## **Language and tools**
