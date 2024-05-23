@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm S M Mahmud Hasan</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">I Know full stack web development, DevOps, Cloud and Blockchain Dev</h3>
 <br>
 <br>
 <img align="right" alt="GIF" src="https://github.com/Mahmud-cse/Mahmud-cse/blob/7f4b48867a3a19738c0ca33298e6b56a8ce14e94/code.gif" width="500" height="320" />
