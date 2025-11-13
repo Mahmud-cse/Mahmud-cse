@@ -23,13 +23,6 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmud-cse&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud-cse" /> </p>
 
-## **Connect with me:**
-
-<br />
-<p align="center">
-<a href="https://twitter.com/DevOpsMahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mahmud_dev" height="30" width="40" style = "padding : 0 1rem"/></a>
-</p>
-
 ## **Language and tools**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmud-cse&show_icons=true&locale=en&layout=compact" alt="mahmud-cse" /></p>
