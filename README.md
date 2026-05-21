@@ -22,7 +22,7 @@
       <ul>
         <li>🌱 <b>Currently learning:</b> Advanced System Design, Distributed Systems, and Zero Knowledge Proofs (ZKP)</li>
         <li>💬 <b>Ask me about:</b> React/Next.js, Node.js, Docker, Kubernetes, AWS, Solidity & Smart Contracts</li>
-        <li>👨‍💻 <b>My Projects:</b> Available at <a href="https://github.com/Mahmud-cse">github.com/Mahmud-cse</a></li>
+        <li>👨%💻 <b>My Projects:</b> Available at <a href="https://github.com/Mahmud-cse">github.com/Mahmud-cse</a></li>
         <li>📫 <b>How to reach me:</b> <a href="mailto:mahmud.hasan.programming@gmail.com">mahmud.hasan.programming@gmail.com</a></li>
         <li>⚡ <b>Fun fact:</b> I think I am funny... LOL! 😄</li>
       </ul>
@@ -146,23 +146,32 @@
 
 ### 📊 GitHub Analytics & Metrics
 
-<p align="center">
-  <a href="https://github.com/Mahmud-cse">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmud-cse&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Mahmud-cse">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmud-cse&theme=tokyonight" alt="Languages by Repo" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Mahmud-cse">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmud-cse&theme=tokyonight" alt="Productive Time" />
-  </a>
-  <a href="https://github.com/Mahmud-cse">
-    <img align="center" src="https://streak-stats.demolab.com?user=mahmud-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="10" width="100%">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Mahmud-cse">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmud-cse&theme=tokyonight" height="195" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Mahmud-cse">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmud-cse&theme=tokyonight" height="195" alt="Languages by Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/Mahmud-cse">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmud-cse&theme=tokyonight" height="195" alt="Productive Time" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/Mahmud-cse">
+        <img src="https://streak-stats.demolab.com?user=mahmud-cse&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -172,7 +181,7 @@
   <a href="mailto:mahmud.hasan.programming@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mahmud.hasan.programming%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/mahmud-cse" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/s-m-mahmud-hasan/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/CloudCodeOpsAI" target="_blank" rel="noreferrer">
