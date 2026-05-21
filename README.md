@@ -2,14 +2,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&height=60&lines=Hi+there!+%F0%9F%91%8B+I'm+S+M+Mahmud+Hasan;Full+Stack+Web+Developer;DevOps+%26+Cloud+Engineer;Blockchain+%26+Web3+Developer" alt="Typing SVG" />
 </p>
+
 <!-- Subtitle -->
 <h3 align="center">Passionate developer building scalable web applications, secure smart contracts, and robust DevOps pipelines.</h3>
+
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmud-cse&label=Profile%20Views&color=0e75b6&style=flat-square" alt="mahmud-cse views" />
 </p>
+
 ---
+
 ### 🚀 About Me
+
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="55%">
@@ -28,8 +33,11 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ### 🛠️ Tech Stack & Tools
+
 <!-- Frontend Section -->
 <details open>
 <summary><b>🌐 Frontend Development</b></summary>
@@ -58,6 +66,7 @@
   </a>
 </p>
 </details>
+
 <!-- Backend & Databases -->
 <details open>
 <summary><b>⚙️ Backend & Databases</b></summary>
@@ -86,6 +95,7 @@
   </a>
 </p>
 </details>
+
 <!-- DevOps & Cloud -->
 <details open>
 <summary><b>☁️ DevOps & Cloud Infrastructure</b></summary>
@@ -111,6 +121,7 @@
   </a>
 </p>
 </details>
+
 <!-- Blockchain -->
 <details open>
 <summary><b>⛓️ Blockchain & Web3</b></summary>
@@ -130,23 +141,33 @@
   </a>
 </p>
 </details>
+
 ---
+
 ### 📊 GitHub Analytics & Metrics
+
 <p align="center">
   <a href="https://github.com/Mahmud-cse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmud-cse&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Mahmud's GitHub Stats" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahmud-cse&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Mahmud-cse">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud-cse&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahmud-cse&theme=tokyonight" alt="Languages by Repo" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/Mahmud-cse">
-    <img src="https://streak-stats.demolab.com/?user=mahmud-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahmud-cse&theme=tokyonight" alt="Productive Time" />
+  </a>
+  <a href="https://github.com/Mahmud-cse">
+    <img align="center" src="https://streak-stats.demolab.com?user=mahmud-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
 ---
+
 ### 🤝 Let's Connect!
+
 <p align="left">
   <a href="mailto:mahmud.hasan.programming@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mahmud.hasan.programming%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
@@ -154,7 +175,7 @@
   <a href="https://linkedin.com/in/mahmud-cse" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/mahmud_cse" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://twitter.com/CloudCodeOpsAI" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-@CloudCodeOpsAI-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
