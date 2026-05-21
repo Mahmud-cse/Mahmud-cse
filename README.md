@@ -22,7 +22,7 @@
       <ul>
         <li>🌱 <b>Currently learning:</b> Advanced System Design, Distributed Systems, and Zero Knowledge Proofs (ZKP)</li>
         <li>💬 <b>Ask me about:</b> React/Next.js, Node.js, Docker, Kubernetes, AWS, Solidity & Smart Contracts</li>
-        <li>👨%💻 <b>My Projects:</b> Available at <a href="https://github.com/Mahmud-cse">github.com/Mahmud-cse</a></li>
+        <li>💻 <b>All my Projects:</b> Available at <a href="https://github.com/Mahmud-cse">github.com/Mahmud-cse</a></li>
         <li>📫 <b>How to reach me:</b> <a href="mailto:mahmud.hasan.programming@gmail.com">mahmud.hasan.programming@gmail.com</a></li>
         <li>⚡ <b>Fun fact:</b> I think I am funny... LOL! 😄</li>
       </ul>
